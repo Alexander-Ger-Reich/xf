@@ -1,1 +1,1 @@
-C:\X-Folder\s.exe
+C:\X-Folder\Updater.exe
